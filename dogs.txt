@@ -1,0 +1,39 @@
+Shitzu,Tammy,Black,F,3,9
+Collie,Ringo,Blonde,M,6,45
+Terrier,Fluffy,White,F,1,35
+Shitzu,Eva,Gray and White,F,1,7
+Beagle,John Lennon,Brown and White,M,2,22
+Pug,Bruno,Brown,M,2,20
+Mastiff,Goliath,Gray,M,4,78
+Dachshund,Spuds,Black and Brown,M,7,13
+Mutt,YooDogg,Brown,F,8,27
+Mutt,Abracadabra,Black,F,4,32
+Beagle,Yappie,Brown and White,F,8,19
+Weimaraner,Alfonze,Gray,M,4,31
+Mutt,Steve Buscemi,Brown and Black,M,6,37
+Labrador Retriever,Sally,Brown,F,2,39
+Standard Poodle,Benjamin Buttons,White,M,3,24
+Cocker Spaniel,Duke,Light Brown,M,2,17
+Basenji,Tycho,Brown and White,M,1,13
+Boxer,Olaf,Brown and White,M,2,18
+Mutt,Napoleon,White,M,3,42
+Brittany,Peanut,White and Brown,F,4,31
+Bull Terrier,Rebel,White and Black,F,7,40
+Bulldog,Captain Antsy,Brown and White,F,4,24
+Briard,Prince William,Gray,M,3,25
+Boxer,Alice,Brown,F,3,27
+Chihuahua,Missy,White,F,3,6
+Chihuahua,JFK,Black and White,M,3,7
+Collie,Riddler,Black and White,M,3,51
+Alaskan Malamute,Joker,Gray and White,M,4,57
+Chow,Mr Miagi,Brown,M,3,10
+Dalmatian,Marshall,White and Black,M,1,30
+Foxhound,Pico,Brown,F,5,25
+German Shepherd,Zeus,Black and Brown,M,5,40
+Airedale,Mandred von Richtofen,Brown and Black,M,4,35
+Cocker Spaniel,Abby,Black,F,1,26
+Rottweiler,Uber Jaeger,Black and Brown,M,2,68
+Mutt,Skippy,Brown,M,3,32
+Mutt,Belle,White and Brown,F,5,17
+Mutt,Dallas,Gray and White,M,4,37
+Shitzu,Littleshitzu,Blonde,F,2,5
