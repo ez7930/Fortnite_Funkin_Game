@@ -62,8 +62,6 @@ public class StartScreen extends GameObject {
 		g.setColor(Color.WHITE);
 		g.setFont(font);
 		g.drawString("Press 1 for easy, 2 for normal, 3 for hard, 4 for impossible", 10, 30);
-		g.drawString("TO ENABLE ON BEAT ARROWS, PRESS SPACE, WAIT,", 10, 100);
-		g.drawString("THEN IMMEDIATELY RERUN THE CODE(MAY TAKE AWHILE)", 10, 130);
 	}
 	
 	public boolean isStart() {
